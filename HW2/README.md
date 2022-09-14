@@ -1,4 +1,4 @@
-# Homework Instructions
+## Homework Instructions
 
 Describe it as you did in the forms above: general idea, null, and alternative hypothesis. Make sure that the quantities you are using are measurable and that you are including all possible outcomes of your experiment. Write this in a HW2/README.md file in your github repository, following proper READMe syntax and formatting the sections the same way as in the forms: General Idea, Null Hypothesis, Alternative Hypothesis, comments on experimental design. To format headers in a markdown file you can use the # symbol (more # will make smaller headers).
 
