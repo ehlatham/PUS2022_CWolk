@@ -1,1 +1,1 @@
-This is the repository for Coryn and Liz's midterm and final project about scrapyards in Philadelphia.
+This is the repository for Coryn and Liz's midterm and final project about scrapyards in Philadelphia. Also, Coryn misnamed this folder and once again can't figure out how to rename it to spell Liz's last name correctly.
