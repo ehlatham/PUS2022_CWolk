@@ -1,0 +1,1 @@
+I did not finish this but am submitting it because I got most of the way through it. I could not get the plots of the different clusters to work. I worked with Liz, but all the code is Dr. Bianco's, mine, or from bits and pieces of help I found scattered around the internet.
